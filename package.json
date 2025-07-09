@@ -1,0 +1,12 @@
+{
+  "name": "grow-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node Bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "node-fetch": "^3.3.1"
+  }
+}
